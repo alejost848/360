@@ -1,0 +1,6 @@
+{
+  "name": "youtube_360",
+  "short_name": "youtube_360",
+  "start_url": "/",
+  "display": "standalone"
+}
